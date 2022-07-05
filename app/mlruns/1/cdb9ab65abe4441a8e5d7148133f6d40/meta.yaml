@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jackie/Pulpit/asi/Grupa-2/mlruns/1/cdb9ab65abe4441a8e5d7148133f6d40/artifacts
+end_time: 1656452742128
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: cdb9ab65abe4441a8e5d7148133f6d40
+run_uuid: cdb9ab65abe4441a8e5d7148133f6d40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1656452741065
+status: 3
+tags: []
+user_id: Adison

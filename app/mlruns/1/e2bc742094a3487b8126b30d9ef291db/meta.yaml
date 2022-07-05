@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jackie/Pulpit/asi/Grupa-2/mlruns/1/e2bc742094a3487b8126b30d9ef291db/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e2bc742094a3487b8126b30d9ef291db
+run_uuid: e2bc742094a3487b8126b30d9ef291db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655561213631
+status: 1
+tags: []
+user_id: s19567
